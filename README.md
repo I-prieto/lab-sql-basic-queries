@@ -10,7 +10,7 @@
   This lab allows you to practice and apply the concepts and techniques taught in class. 
 
   Upon completion of this lab, you will be able to:
-  
+ 
 - Use SQL queries to extract insights from the data and answer research questions or problem statements, using techniques such as selecting columns with SELECT clause, filtering with WHERE clause, sorting data with ORDER BY clause, limiting results with LIMIT, using DISTINCT to retrieve unique values, and counting records with COUNT.
 
 
